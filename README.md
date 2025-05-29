@@ -79,8 +79,8 @@ streamlit run main.py
 - If the city is not found, a graceful error message is shown.
 
 ---
-## App Preview
-![App Preview](./App_Design.png)
+## ⛅ App Preview
+<img src="./App_Design.png" alt="App Preview" width="500" style="border: 2px solid black; border-radius: 6px;" />
 ---
 
 ## 🔍 Example URLs (API used internally)
@@ -95,3 +95,14 @@ http://api.openweathermap.org/data/2.5/forecast?q=Tirana&appid=YOUR_API_KEY
 - **OpenWeatherMap API** – for forecast data
 - **Python-dotenv** – for environment variable management
 
+---
+### 🖼️ Sky Condition Icons
+
+The following images are used to represent the sky:
+
+| Weather | Icon                                                                                          |
+|---------|-----------------------------------------------------------------------------------------------|
+| Clear   | <img src="images/clear.png" width="60" style="border: 2px solid black; border-radius: 6px;"/> |
+| Clouds  | <img src="images/cloud.png" width="60" style="border: 2px solid black; border-radius: 6px;"/> |
+| Rain    | <img src="images/rain.png" width="60" style="border: 2px solid black; border-radius: 6px;"/>  |
+| Snow    | <img src="images/snow.png" width="60" style="border: 2px solid black; border-radius: 6px;"/>  |
