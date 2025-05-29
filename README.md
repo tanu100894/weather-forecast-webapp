@@ -80,7 +80,9 @@ streamlit run main.py
 
 ---
 ## ⛅ App Preview
+
 <img src="./App_Design.png" alt="App Preview" width="500" style="border: 2px solid black; border-radius: 6px;" />
+
 ---
 
 ## 🔍 Example URLs (API used internally)
